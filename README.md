@@ -1,4 +1,4 @@
-# Binary_Search_Tree_Assignment_201046038
+# SHAIK_FAREEN_AKHTAR_201046038_Binary_Search_Tree_Assignment
 
 1. Design a BST class with methods to add element, search element, number of elements and
 delete requested element
