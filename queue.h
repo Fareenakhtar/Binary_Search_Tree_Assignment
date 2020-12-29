@@ -1,5 +1,5 @@
-#ifndef INCLUDED_QUEUE_
-#define INCLUDED_QUEUE_
+#ifndef QUEUE_H_INCLUDED
+#define QUEUE_H_INCLUDED
 #include<stdint.h>
 
 #ifndef DATA_TYPE
