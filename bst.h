@@ -1,5 +1,5 @@
-#ifndef _INCLUDED_BST_
-#define _INCLUDED_BST_
+#ifndef BST_H_INCLUDED
+#define BST_H_INCLUDED
 #include<stdint.h>
   
 #include<assert.h>
